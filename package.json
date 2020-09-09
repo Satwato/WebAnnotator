@@ -1,0 +1,13 @@
+{
+  "name": "WebAnnotator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Satwato/WebAnnotator.git",
+  "author": "Satwato Dey",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "create-react-app": "^3.4.1",
+    "vott-ct": "^2.2.16"
+  }
+}
